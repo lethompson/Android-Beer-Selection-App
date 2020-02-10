@@ -8,3 +8,7 @@
 
 ![Android Beer](https://github.com/lethompson/Android-Beer-Selection-App/blob/master/Beer-Advisor-App1.png)
 
+### Drink Color Selection (Light, Amber, Brown, Dark)
+
+![Android Select](https://github.com/lethompson/Android-Beer-Selection-App/blob/master/Beer-Selection.png)
+
