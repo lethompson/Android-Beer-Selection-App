@@ -15,3 +15,7 @@
 ### Amber Selection:
 
 ![Amber Selection](https://github.com/lethompson/Android-Beer-Selection-App/blob/master/Amber-Beer.png)
+
+### Drink Color Selected When click Button:
+
+![Button Action](https://github.com/lethompson/Android-Beer-Selection-App/blob/master/Select_Amber_Appear.png)
